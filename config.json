@@ -1,0 +1,34 @@
+{
+    "workbench.startupEditor": "welcomePage",
+    "workbench.colorCustomizations":{
+        "titleBar.activeBackground":"#f5130ba9",
+        "titleBar.activeForeground":"#0a0a0aa9",
+        "terminal.background": "#000000",
+        "terminal.foreground": "#ffffff",
+        "terminalCursor.foreground": "#c20707",
+        "terminalCursor.background": "#f8f5f5",
+        "editor.selectionBackground": "#c40404",
+        "editor.selectionForeground": "#FFFFFF",
+        
+
+        "sideBar.background": "#05050500",
+        "sideBar.foreground": "#fcfcfc",
+        "sideBar.border": "#ff0000",
+        "sideBarTitle.foreground": "#000000",
+        "sideBarSectionHeader.background": "#c20707",
+        "sideBarSectionHeader.foreground": "#020202",
+
+        "list.hoverBackground": "#ffffff69",
+        "list.hoverForeground": "#050505e7",
+        "list.activeSelectionBackground": "#fff",
+        "list.activeSelectionForeground": "#000",
+
+        "tab.activeBackground": "#006d12",
+        "tab.activeForeground": "#ffffff",
+        "tab.inactiveBackground": "#810000",
+        "tab.inactiveForeground": "#ffffff",
+        "tab.border": "#18be02",
+
+        "gitDecoration.ignoredResourceForeground": "#dddddd"
+    }
+}
